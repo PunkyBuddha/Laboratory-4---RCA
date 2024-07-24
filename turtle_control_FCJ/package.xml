@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtle_control_FCJ</name>
+  <version>0.0.0</version>
+  <description>The turtle_control_FCJ package</description>
+  <maintainer email="your_email@domain.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>turtlesim</depend>
+  <depend>action_msgs</depend>
+  <depend>custom_interfaces</depend>
+</package>
